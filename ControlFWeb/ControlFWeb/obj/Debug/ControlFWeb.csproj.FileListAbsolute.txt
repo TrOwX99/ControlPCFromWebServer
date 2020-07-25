@@ -1,0 +1,10 @@
+E:\ControlFWeb\ControlFWeb\bin\Debug\ControlFWeb.exe.config
+E:\ControlFWeb\ControlFWeb\bin\Debug\ControlFWeb.exe
+E:\ControlFWeb\ControlFWeb\bin\Debug\ControlFWeb.pdb
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.csprojAssemblyReference.cache
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.Frm_Main.resources
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.Properties.Resources.resources
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.csproj.GenerateResource.cache
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.csproj.CoreCompileInputs.cache
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.exe
+E:\ControlFWeb\ControlFWeb\obj\Debug\ControlFWeb.pdb
