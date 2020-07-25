@@ -6,7 +6,7 @@
   - ControlFWeb.exe: URL Sample ----> test.com/control_my_pc.txt And... Click Button or Press [Enter]
 ![alt text](https://raw.githubusercontent.com/TrOwX99/ControlPCFromWebServer/master/Screenshots/Screenshot_2.png)
 
-  - MainActivity: URL Sample ----> test.com/command.php?action= + SHUTDOWN or RESTART etc...  
+  - MainActivity: URL Sample ----> test.com/command.php?action=
 ![alt text](https://raw.githubusercontent.com/TrOwX99/ControlPCFromWebServer/master/Screenshots/Screenshot_20200725_210638_dev.ik.controlpc.jpg)
 
   - MainActivity2: Control Panel  
